@@ -7,10 +7,10 @@ Whether something isn't working as expected, you have an idea for making the app
 ## How to get involved
 
 - **Found a bug?** [Submit a bug report](https://github.com/StrawberryNotes/sbnotes-issues/issues/new) and tell us what happened.
-- **Have a feature idea?** [Request a feature](https://github.com/StrawberryNotes/sbnotes-issues/issues/new) and share what you'd like to do and how it would help.
+- **Have a feature idea?** [Request a feature in Discussions](https://github.com/StrawberryNotes/sbnotes-issues/discussions) and share what you'd like to do and how it would help.
 - **Want to ask a question or start a conversation?** [Join the discussions](https://github.com/StrawberryNotes/sbnotes-issues/discussions) to share feedback, ideas, and experiences with the app.
 
-Before opening a new issue, take a quick look at [existing issues](https://github.com/StrawberryNotes/sbnotes-issues/issues) to see if someone has already reported it. If they have, feel free to add any helpful details or a 👍.
+Before submitting a bug report or feature idea, take a quick look at [existing issues](https://github.com/StrawberryNotes/sbnotes-issues/issues) for bugs or [Discussions](https://github.com/StrawberryNotes/sbnotes-issues/discussions) for feature requests to see if someone has already shared it. If they have, feel free to add any helpful details or a 👍.
 
 ## Reporting a bug
 
